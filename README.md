@@ -53,7 +53,7 @@ My nighttime routine includes:
 | Terms | Definitions | My Meaning
 |:-|:----:| ---:|
 | Colossal | Extremely large | Big enough to see over a tall building |
-| Dinky | Small; Insignificant | Something tiny and unassuming |
+| Dinky | Small; Insignificant | Something tiny and a little weird |
 | Benevolent | Well meaning and kindly | Super nice |
-| Opulent | Ostentatiously rich and luxurious or lavish | Obscenely Rich |
+| Opulent | Ostentatiously rich and luxurious or lavish | Obscenely rich |
 
