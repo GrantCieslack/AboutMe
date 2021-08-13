@@ -7,6 +7,10 @@
 
 My name is Grant Cieslack
 
+[1]: https://en.wikipedia.org/wiki/Nikola_Tesla
+[2]: https://en.wikipedia.org/wiki/George_R._R._Martin
+[3]: https://en.wikipedia.org/wiki/Steve_Jobs
+
 Hobbies
 -
 
@@ -36,4 +40,10 @@ My nighttime routine includes:
 [Youtube](https://www.youtube.com/ "I spend way too much time here")
 
 [Oh no, I've been tagged!][What Does this do]
+
+## Persons of Interest
+
+[Nikola Tesla][1]
+[George R.R. Martin][2]
+[Steve Jobs][3]
 
