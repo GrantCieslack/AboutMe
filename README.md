@@ -44,7 +44,9 @@ My nighttime routine includes:
 ## Persons of Interest
 
 [Nikola Tesla][1]<br>
+![Nikola](img/Nik.jpg)
 [George R.R. Martin][2]<br>
+![George](img/Georgie.jpg)
 [Steve Jobs][3]<br>
 ![Steve](img/stevieBoy.jpg)
 
