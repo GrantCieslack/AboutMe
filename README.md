@@ -27,6 +27,10 @@ My nighttime routine includes:
 
 ## My Motto
 
+**Don't think outside the box, just pretend the box doesn't exist**
+
+**Nothing is permanent**
+
 ## Favorite Quotes
 
 <i>Not all those who wander are lost.</i> - J.R.R. Tolkein
