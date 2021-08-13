@@ -46,5 +46,5 @@ My nighttime routine includes:
 [Nikola Tesla][1]<br>
 [George R.R. Martin][2]<br>
 [Steve Jobs][3]<br>
-![Steve] ()
+![Steve](img/stevieBoy.jpg)
 
