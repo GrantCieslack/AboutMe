@@ -5,7 +5,7 @@
 
 [What Does this do]: https://mail.google.com/
 
-My name is Grant Cieslack
+My name is Grant Cieslack. I am a senior at Castle High School. I am involved in clubs such as Business Professionals of America, Key Club, etc. In the future I would like to study Computer Science at Purdue University though I'm unsure what major specifically.
 
 [1]: https://en.wikipedia.org/wiki/Nikola_Tesla
 [2]: https://en.wikipedia.org/wiki/George_R._R._Martin
@@ -43,7 +43,8 @@ My nighttime routine includes:
 
 ## Persons of Interest
 
-[Nikola Tesla][1]
-[George R.R. Martin][2]
-[Steve Jobs][3]
+[Nikola Tesla][1]<br>
+[George R.R. Martin][2]<br>
+[Steve Jobs][3]<br>
+![Steve] ()
 
