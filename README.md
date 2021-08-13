@@ -28,6 +28,6 @@ My nighttime routine includes:
 
 ## My Favorite Websites
 
-[Bored Button]https://www.boredbutton.com/
-[Youtube]https://www.youtube.com/
+[Bored Button](https://www.boredbutton.com/)
+[Youtube](https://www.youtube.com/)
 
