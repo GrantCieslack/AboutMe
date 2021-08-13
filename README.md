@@ -24,10 +24,12 @@ My nighttime routine includes:
 ## Favorite Quotes
 
 <i>Not all those who wander are lost.</i> - J.R.R. Tolkein
+
 <i>Time you enjoy wasting was not wasted.</i> - John Lennon
 
 ## My Favorite Websites
 
 [Bored Button](https://www.boredbutton.com/)
+
 [Youtube](https://www.youtube.com/)
 
