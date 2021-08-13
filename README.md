@@ -50,3 +50,10 @@ My nighttime routine includes:
 [Steve Jobs][3]<br>
 ![Steve](img/stevieBoy.jpg)
 
+| Terms | Definitions | My Meaning
+|:-|:----:| ---:|
+| Colossal | Extremely large | Big enough to see over a tall building |
+| Dinky | Small; Insignificant | Something tiny and unassuming |
+| Benevolent | Well meaning and kindly | Super nice |
+| Opulent | Ostentatiously rich and luxurious or lavish | Obscenely Rich |
+
