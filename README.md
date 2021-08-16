@@ -55,7 +55,7 @@ __Nothing__ is permanent
 | Terms | Definitions | My Meaning
 |:-|:----:| ---:|
 | Colossal | Extremely large | Big enough to see over a tall building |
-| Dinky | Small; Insignificant | Something tiny and a little weird |
+| Dinky | Small; Insignificant | Something tiny |
 | Benevolent | Well meaning and kindly | Super nice |
 | Opulent | Ostentatiously rich and luxurious or lavish | Obscenely rich or luxurious |
 
