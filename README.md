@@ -27,8 +27,6 @@ My nighttime routine includes:
 
 ## My Motto
 
-**Don't** think outside the box, just pretend **the box doesn't exist**
-
 __Nothing__ is permanent
 
 ## Favorite Quotes
