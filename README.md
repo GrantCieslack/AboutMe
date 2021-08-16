@@ -57,5 +57,5 @@ __Nothing__ is permanent
 | Colossal | Extremely large | Big enough to see over a tall building |
 | Dinky | Small; Insignificant | Something tiny and a little weird |
 | Benevolent | Well meaning and kindly | Super nice |
-| Opulent | Ostentatiously rich and luxurious or lavish | Obscenely rich |
+| Opulent | Ostentatiously rich and luxurious or lavish | Obscenely rich or luxurious |
 
