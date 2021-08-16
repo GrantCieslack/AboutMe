@@ -46,11 +46,11 @@ __Nothing__ is permanent
 ## Persons of Interest
 
 [Nikola Tesla][1]<br>
-![Nikola](img/Nik.jpg)
+![Nikola](img/Nik.jpg)<br>
 [George R.R. Martin][2]<br>
-![George](img/georgie.jpg)
+![George](img/georgie.jpg)<br>
 [Steve Jobs][3]<br>
-![Steve](img/stevieBoy.jpg)
+![Steve](img/stevieBoy.jpg)<br>
 
 | Terms | Definitions | My Meaning
 |:-|:----:| ---:|
