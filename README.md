@@ -25,7 +25,7 @@ My nighttime routine includes:
 2. Brushing my teeth
 3. Going to sleep :)
 
-## My Motto
+## My Philosophy
 
 __Nothing__ is permanent
 
