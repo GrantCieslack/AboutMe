@@ -15,7 +15,7 @@ Education
 - Southern Indiana Career & Technical Center
 - Purdue University
 
-## Hobbies
+Hobbies
 -
 
 - Video Games
